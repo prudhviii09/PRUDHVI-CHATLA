@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Buddy",
+  "description": "Your friendly, always-on AI assistant. Controls your PC, answers questions, and works offline for basic tasks.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
